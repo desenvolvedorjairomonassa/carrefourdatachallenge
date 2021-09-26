@@ -10,3 +10,12 @@
 <figure>
   <img src="https://github.com/desenvolvedorjairomonassa/carrefourdatachallenge/blob/main/carrefour.png" alt="Desenvolvimento">
 </figure>
+
+
+<h2> Arquivos </h2>
+
+<ol type="1">
+  <li>Env.py - variaveis environment - exemplo env_exemplo</li>
+  <li>main.py - > recuperação de dados pela API twitter, faz a ingestão de dados mongodb, recuperação de dados mongodb e exportação para csv</li>
+  <li>jupter no notebook carrefour.ipynb </li>
+</ol>
