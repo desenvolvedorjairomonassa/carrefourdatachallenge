@@ -1,4 +1,4 @@
-;text;retweet;coordinates;created_at;location;favourites_count;followers_count;friends_count;statuses_count;q_retweet_count;score;sentiment
+id;text;retweet;coordinates;created_at;location;favourites_count;followers_count;friends_count;statuses_count;q_retweet_count;score;sentiment
 0;Dou 24 horas pra Jovem Klan anunciar a contratação do Alexandre Garcia q acaba de ser demitido da CNN.;1010;;Fri Sep 24 22:51:22 +0000 2021;Rio de Janeiro;6966;13886061;713;16583;0;-0.727595;negative
 1;A CNN desmentiu novamente Alexandre Garcia que defendeu a empresa investigada Prevent Senior. Importante posiciona… ;449;;Fri Sep 24 19:53:43 +0000 2021;Porto Alegre;7269;145634;1963;21236;0;0.0;neutral
 2;O jornalista Alexandre Garcia foi demitido da CNN hoje. A imprensa brasileira está priorizando apenas uma versão n… ;871;;Sat Sep 25 00:45:32 +0000 2021;Brasil;445;48529;1071;12124;0;0.0;neutral
